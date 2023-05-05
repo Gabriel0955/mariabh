@@ -1,0 +1,84 @@
+
+body{
+    background-color: black;
+    background-image:url("as3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.lo{
+    background-image:url("as.jpg");
+}
+.wa{
+    background-image:url("as2.jpg");
+}
+.what{
+    background-image:url("https://img2.wallspic.com/previews/5/8/2/8/6/168285/168285-astronauta-dibujo-espacio-el_espacio_exterior-caricatura-x750.jpg");
+}
+.do{
+    background-image:url("https://img2.wallspic.com/previews/7/7/6/2/5/152677/152677-astronauta-agua-animacion-de_dibujos_animados-caricatura-x750.jpg");
+}
+.de{
+    background-image:url("https://img1.wallspic.com/previews/0/8/8/2/5/152880/152880-astronauta-espacio-animacion-graficos-x750.jpg");
+}
+.titulo{
+    display: block;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom:-10px;
+    color:red;
+    text-shadow: 2px 3px 5px rgb(4, 226, 255);
+    font-size: 45px;
+}
+h2{
+    margin-top: 7%;
+    color: antiquewhite;
+    text-align: center;
+    margin-bottom: px;
+    font-size: 30px;
+    color: orangered;
+    text-shadow: 1px 2px 5px rgb(0, 255, 98);
+}
+.padre{
+    margin-top: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    height: 55px;
+    width: 155px;
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 6, 6);
+    border-radius: 5rem;
+    border: 2px solid blue;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    
+}
+button:hover{
+    color: black;
+    background-color: aliceblue;
+    transition: 1s;
+}
+a{
+    text-decoration: none;
+}
+.enlace{
+    color:rgb(0, 255, 34);
+    text-shadow: 5px 2px 5px rgb(0, 0, 0);
+}
+.dia{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,36 @@
+p{
+    text-align: center;
+    border: 3px ridge rgb(0, 17, 255);
+    font-size: 25px;
+    background-color: rgb(0, 255, 221);
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+
+}
+.ba{
+    margin-bottom: 0;
+    border-bottom:0 ;
+    color: rgb(21, 255, 0);
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+}
+.base{
+    margin-top: 0 ;
+    border-top: 2px dashed rgb(255, 7, 27);
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 2px 5px rgb(255, 0, 0);
+    margin-bottom: 0;
+    border-bottom: 0;
+    font-size: 22px;
+}
+.inicio{
+    text-align: center;
+}
+.profe{
+    color: rgb(71, 250, 0);
+    text-shadow: 1px 2px 5px rgb(0, 0, 0);
+    margin-top: 0;
+    font-size: 15px;
+    text-align: end;
+    border-top: 2px dashed rgb(255, 3, 3);
+
+}
